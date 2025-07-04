@@ -11,10 +11,13 @@ It focuses on cleaning the data, handling missing values, detecting outliers, an
 GurgaonRealEstate/
 ├── code/
 │ └── Gurgaon_RealEstate_Analysis.ipynb # Jupyter Notebook with full analysis
+
 ├── data/
 │ └── Gurgaon_RealEstate.csv # Original dataset
+
 ├── report/
 │ └── report.pdf # Final report for submission
+
 ├── README.md # Project description
 
 
